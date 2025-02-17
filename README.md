@@ -1,24 +1,23 @@
 
-# ***🔥 Shadow-Bot-MD 🔥***
+# ***🔥 Emanuel_Bot-MD_2025-🅑︎🅞︎🅣︎ 🔥***
 
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/ShadowBotV4-MD/blob/master/src/sinfoto.jpg" alt="DORRAT-BOT-MD" width="900"/>
+<img src="https://github.com/VICTOREMANUEL2022/Emanuel_Bot-MD_2025.jpg" alt="DORRAT-BOT-MD" width="900"/>
 </p>
 
-#  ***Anterior nombre: Dorrat-Bot-MD***
-Dorrat se seguira usando para distintas cosas y funciones.
+#  ***seguira usando para distintas cosas y funciones.
 
 ### `—◉ ❤️BOTS OFICIALES`
 
-<a href="http://wa.me/50664432500" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/59896753932" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
-<a href="http://wa.me/528442286089" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573184314110" target="blank"><img src="https://img.shields.io/badge/Narsol_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/59896753932" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/59896753932" target="blank"><img src="https://img.shields.io/badge/Narsol_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/59896753932" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/59896753932" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/59896753932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ 🔥GRUPOS OFICIALES`
 
@@ -109,4 +108,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
 <a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
 
-> The Shadow - Brockers - Bot - MD_ By DIEGO OFC 
+> The Shadow - Brockers - Bot - MD_ By .Emanuel_Bot-MD_2025-🅑︎🅞︎🅣︎ OFC 
