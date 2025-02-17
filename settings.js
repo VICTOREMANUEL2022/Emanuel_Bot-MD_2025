@@ -10,17 +10,11 @@ const baileys = require('@whiskeysockets/baileys');
  const fetch = require('node-fetch')
  const FormData = require('form-data')  
 global.botNumberCode = "" //Ejemplo: +598 96 753 932
-global.phoneNumber = ""
+global.phoneNumber = +598 96 753 932"
 
  global.owner = [ 
- ["584125778026", "Owner+598 96 753 932", true], 
- ["5492266613038"],
- ["5217779091180"],
- ["50375961083"],
- ["50246028932"]
- ] 
-
-global.mods = []
+ ["Owner+598 96 753 932", true], 
+ global.mods = []
 global.premium = []  
 global.blockList = []  
 
