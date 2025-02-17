@@ -12,8 +12,7 @@ const baileys = require('@whiskeysockets/baileys');
 global.botNumberCode = 59896753932
 global.phoneNumber = 59896753932"
 
- global.owner = [ 
- [598 96 753 932", true], 
+ global.owner = [59896753932", true], 
  global.mods = []
 global.premium = []  
 global.blockList = []  
