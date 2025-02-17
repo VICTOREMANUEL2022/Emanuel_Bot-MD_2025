@@ -9,11 +9,11 @@ const baileys = require('@whiskeysockets/baileys');
  const os = require('os')
  const fetch = require('node-fetch')
  const FormData = require('form-data')  
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "" //Ejemplo: +598 96 753 932
 global.phoneNumber = ""
 
  global.owner = [ 
- ["584125778026", "Owner", true], 
+ ["584125778026", "Owner+598 96 753 932", true], 
  ["5492266613038"],
  ["5217779091180"],
  ["50375961083"],
@@ -24,10 +24,10 @@ global.mods = []
 global.premium = []  
 global.blockList = []  
 
- global.botname = "SHADOW-乃ㄖㄒ-爪ᗪ+" 
- global.wm = 'SHADOW-🅑︎🅞︎🅣︎+' 
+ global.botname = "Emanuel_Bot-MD_2025_MD" 
+ global.wm = 'Emanuel_Bot-MD_2025-🅑︎🅞︎🅣︎+' 
  global.vs = '1.0.0' 
- global.place = 'America/Bogota' // Aquí puede encontrar su ubicación https://momentjs.com/timezone/ 
+ global.place = 'America/uruguay' // Aquí puede encontrar su ubicación https://momentjs.com/timezone/ 
 global.baileys = baileys
 global.axios = axios
 global.fs = fs
@@ -49,11 +49,11 @@ global.query = imagen1
  global.imagen2 = fs.readFileSync('./media/menu2.jpg') 
  global.imagen3 = fs.readFileSync('./media/menu3.jpg') 
  global.noperfil = fs.readFileSync('./media/sinfoto.jpg') 
- global.md = 'https://github.com/DIEGO-OFC' 
+ global.md = 'https://github.com/VICTOREMANUEL2022/Emanuel_Bot-MD_2025' 
  global.yt = 'https://www.youtube.com/@diegogameplays82' 
- global.nn = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //Update  
- global.nnn = 'https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg' 
- global.nna2 = 'https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg' 
+ global.nn = 'Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/Heo2MeCb7P02ocXFhtFQDP' //Update  
+ global.nnn = 'Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/Heo2MeCb7P02ocXFhtFQDP' 
+ global.nna2 = 'Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/Heo2MeCb7P02ocXFhtFQDP' 
  const ctxd = [ 
 "AF",  "AX",   "AL", "DZ",  "AS",   "AD",  "AO",   "AI",  "AQ", "AG", "AR", "AM", "AW", "AU",  "AT", 
        "AZ", 
@@ -289,8 +289,8 @@ global.query = imagen1
        "VN", 
        "VG", "VI", "WF", "EH",  "YE", "ZM", "ZW"]; 
 global.ctpro = ctxd;
- global.packname = "Shadow 乃ㄖㄒ 爪ᗪ+" 
- global.author = "By Diego-OFC" 
+ global.packname = "Emanuel_Bot-MD_2025-🅑︎🅞︎🅣︎" 
+ global.author = "By Emanuel_Bot-MD_2025-🅑︎🅞︎🅣︎" 
   
  global.info = { 
  wait: '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*',  
@@ -761,3 +761,4 @@ restrict: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾
  delete require.cache[file]  
  require(file)  
  })
+Emanuel_Bot-MD_2025-🅑︎🅞︎🅣︎
